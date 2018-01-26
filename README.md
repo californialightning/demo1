@@ -6,4 +6,9 @@
 
 ## Additional modification to file in initial commit
 
+## Additional line to visualize using difftool (2)
+
+## Quick change: On a branch
+This is bound to cause trouble
 Main branch - alternate update
+Both updated
